@@ -1,0 +1,3 @@
+%magnitudeH - 
+%
+% See also MaterialProperty
